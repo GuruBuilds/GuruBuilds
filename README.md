@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [odoo](https://github.com/odoo/odoo)
 
-- 🌱 I’m currently learning **Django, Flask**
+- 🌱 I’m currently learning and working with **Django, Flask and Odoo**
 
 - 💬 Ask me about **Python, JS, Java and React**
 
